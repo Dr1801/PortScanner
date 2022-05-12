@@ -1,10 +1,10 @@
 # PortScanner
-A FAST and SIMPLE port scanner 
+A <b>FAST</b> and <b>SIMPLE</b> port scanner 
 
 # Uses:
 Target host to scan: `--target` or `-t`
 
-Specify port range to scan. If you left blank, ports 1 - 65535 will be scanned: `--ports` or `-p`
+Specify port range to scan. If you <b>left blank</b>, ports <b>1 - 65535</b> will be scanned: `--ports` or `-p`
 
 Evaluator:
 ---------
