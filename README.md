@@ -6,8 +6,7 @@ Target host to scan: `--target` or `-t`
 
 Specify port range to scan. If you <b>left blank</b>, ports <b>1 - 65535</b> will be scanned: `--ports` or `-p`
 
-Evaluator:
----------
+# Example:
 
 ```bash
 python portscannerv3.py -t 192.168.1.1 -p 1-10000
