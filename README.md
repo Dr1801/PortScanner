@@ -13,4 +13,4 @@ python portscannerv3.py -t 192.168.1.1 -p 1-10000
 ```
 ```bash
 python3 portscannerv3.py -t 192.168.1.1
-```
+
