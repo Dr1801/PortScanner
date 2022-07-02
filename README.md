@@ -4,7 +4,7 @@ A <b>FAST</b> and <b>SIMPLE</b> port scanner
 # Uses:
 Target host to scan: `--target` or `-t`
 
-Specify port range to scan. If you <b>left blank</b>, ports <b>1 - 65535</b> will be scanned: `--ports` or `-p`
+Specify port range to scan: `--ports` or `-p` (If you <b>left blank</b>, ports <b>1 - 65535</b> will be scanned)
 
 # Example:
 
